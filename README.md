@@ -1,7 +1,7 @@
 # Pizza-sales-dashboard
 Pizza Sales Dashboard using SQL and Excel.
 
-![dashboard-animation](https://github.com/nabasmita-mahanta/HR-Analysis-Dashboard/blob/main/Demo%20GIF.gif)
+![dashboard-animation](https://github.com/nabasmita-mahanta/Pizza-sales-dashboard/blob/main/DemoPizzaSales.gif)
 ## Project Highlights:
 * Leveraged SQL to extract, clean, and organize raw data from multiple sources, ensuring accuracy and reliability. • Utilized Excel's advanced analytics and visualization capabilities to create an interactive and visually compelling sales report.
 
